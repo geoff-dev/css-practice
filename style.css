@@ -1,0 +1,33 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #E9FFF9;
+}
+
+h1{
+  font-size: 3rem;
+  color: #111D4A;
+}
+
+.carousel-item{
+  background: #777;
+  width: 32rem;
+  height: 36rem;
+}
+
+.container{
+    padding-left: 28rem;
+}
+
+.carousel-text{
+  color: #FFFAFF;
+  text-shadow: 2px 2px #000000;
+}
